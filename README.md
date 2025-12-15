@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <h1>
+    Всем привет!
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR2dGZwbzU4eWUxajRtazkzZjE3ZDVxZTI4d3YyeDU3aDJsdXQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
+  </h1>
+</div>
 
-<!--
-**Diss-313/Diss-313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem91cHF3d256ZHEzNDJybTRjMTlwMGdqNWkya25qNHRqbWZjejM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="380" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Меня зовут Кирилл, я ML-инженер с научным бэкграундом <br/>в химии и медицине 🔬
+
+- Мой интерес к Data Science вырос из практического опыта работы в <br/>научных исследованиях, где ML стал ключевым инструментом.
+- R&D-фокус: люблю исследовательские ML-задачи на стыке с наукой — от гипотез и дизайна экспериментов до строгой валидации на шумных данных со смещениями и небольшими выборками.
+- Держу баланс между путешествиями, друзьями и <br/>готовкой отличных шашлыков.
+
+<hr/>
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVwbG05b2tneGJxN282dml5Y2I0eThubXcyaDFob2sydnpqeDV6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="260" />
+
+### 🛠 Навыки 🛠
+
+| Категория | Инструменты и технологии |
+|---|---|
+| **Языки & БД** | Python, SQL, PostgreSQL |
+| **Python Frameworks / EDA** | pandas, NumPy, SciPy, Matplotlib, Seaborn |
+| **ML / DL Frameworks** | PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost |
+| **MLOps & Backend** | Git, FastAPI, Airflow, Docker |
+| **Аналитика** | A/B-тесты |
+
+<hr/>
+
+### 📄 Мои проекты 📄
+
+| Название проекта | Описание | Стек проекта |
+|---|---|---|
+| [Recommendation-system-for-a-social-network]() | Проект представляет собой микросервис на FastAPI по рекомендации постов (на основе CatBoost и ансамбля CatBoost + all-MiniLM-L6-v2) для пользователей в соцсетях. | EDA, Feature Engineering, PostgreSQL, CatBoost, FastAPI, Postman |
+
+<hr/>
+
+### 💬 Связаться со мной 💬
+- 📱 [Telegram](https://t.me/Diss_313)
+- 📧 [k.maisaya@yandex.ru](mailto:k.maisaya@yandex.ru)
