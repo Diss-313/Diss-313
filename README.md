@@ -26,7 +26,7 @@
 
 | Название проекта | Описание | Стек проекта |
 |---|---|---|
-| [Recommendation-system-for-a-social-network]() | Проект представляет собой микросервис на FastAPI по рекомендации постов (на основе CatBoost и ансамбля CatBoost + all-MiniLM-L6-v2) для пользователей в соцсетях. | EDA, Feature Engineering, PostgreSQL, CatBoost, FastAPI, Postman |
+| [Recommendation-system-for-a-social-network](https://github.com/Diss-313/Recommendation-System-for-a-social-network) | > Рекомендательная система для социальной сети на базе FastAPI с использованием CatBoost и нейросетевых эмбеддингов (PyTorch + Transformers). Данные хранятся в PostgreSQL, обрабатываются с помощью Pandas/NumPy. Текстовые признаки извлекаются через предобученную модель all-MiniLM-L6-v2 с последующей кластеризацией (K-means) и снижением размерности (PCA). Метрика качества — HitRate@5 > 0.65 | Python, CatBoost, Transformers (sentence-transformers), PyTorch, scikit-learn (PCA/KMeans), FastAPI/Uvicorn, PostgreSQL (SQLAlchemy), pandas/NumPy |
 
 <hr/>
 
