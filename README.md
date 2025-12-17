@@ -1,6 +1,6 @@
 <h1 align="center"> Всем привет! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR2dGZwbzU4eWUxajRtazkzZjE3ZDVxZTI4d3YyeDU3aDJsdXQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" /></h1>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem91cHF3d256ZHEzNDJybTRjMTlwMGdqNWkya25qNHRqbWZjejM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="320" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem91cHF3d256ZHEzNDJybTRjMTlwMGdqNWkya25qNHRqbWZjejM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="340" />
 
 ### Меня зовут Кирилл, я ML-инженер с научным бэкграундом <br/>в химии и медицине 🔬
 
@@ -12,11 +12,13 @@
 
 ### 🛠 Навыки 🛠
 
-- **Языки & БД:** `Python`, `SQL`, `PostgreSQL`
-- **Python Frameworks / EDA:** `pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`
-- **ML / DL Frameworks:** `PyTorch`, `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`
+- **Языки:** `Python`, `SQL` 
+- **Базы данных:** `PostgreSQL`
+- **Data analysis / EDA:** `pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`
+- **ML:** `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`
+- **DL:** `PyTorch`
 - **MLOps & Backend:** `Git`, `FastAPI`, `Airflow`, `Docker`
-- **Аналитика:** `A/B-тесты`
+- **Эксперименты:** `A/B-тесты`
 
 <hr/>
 
