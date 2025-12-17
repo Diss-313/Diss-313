@@ -16,7 +16,7 @@
 - **Базы данных:** `PostgreSQL`
 - **Data analysis / EDA:** `pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`
 - **ML:** `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`
-- **DL:** `PyTorch`
+- **DL:** `PyTorch`, `Transformers`
 - **MLOps & Backend:** `Git`, `FastAPI`, `Airflow`, `Docker`
 - **Эксперименты:** `A/B-тесты`
 
@@ -26,7 +26,8 @@
 
 | Название проекта | Описание | Стек проекта |
 |---|---|---|
-| [Recommendation-system-for-a-social-network](https://github.com/Diss-313/Recommendation-System-for-a-social-network) | > Рекомендательная система для социальной сети на базе FastAPI с использованием CatBoost и нейросетевых эмбеддингов (PyTorch + Transformers). Данные хранятся в PostgreSQL, обрабатываются с помощью Pandas/NumPy. Текстовые признаки извлекаются через предобученную модель all-MiniLM-L6-v2 с последующей кластеризацией (K-means) и снижением размерности (PCA). Метрика качества — HitRate@5 > 0.65 | Python, CatBoost, Transformers (sentence-transformers), PyTorch, scikit-learn (PCA/KMeans), FastAPI/Uvicorn, PostgreSQL (SQLAlchemy), pandas/NumPy |
+| [Recommendation-System-for-a-social-network](https://github.com/Diss-313/Recommendation-System-for-a-social-network) | Рекомендательная система для социальной сети на базе FastAPI с использованием CatBoost и нейросетевых эмбеддингов (PyTorch + Transformers), данные хранятся в PostgreSQL. Текстовые признаки извлекаются через предобученную модель all-MiniLM-L6-v2 (дистиллированная версия BERT) с последующей кластеризацией (K-means) и снижением размерности (PCA). Метрика качества — HitRate@5 > 0.65 | Python, CatBoost, Transformers (sentence-transformers), PyTorch, scikit-learn (PCA/KMeans), FastAPI/Uvicorn, PostgreSQL (SQLAlchemy), pandas/NumPy |
+| [DeepSeek-Telegram-Bot-pre-alpha](https://github.com/Diss-313/DeepSeek-Telegram-Bot-pre-alpha) | Telegram-бот на aiogram, интегрированный с DeepSeek Chat API по HTTP с поддержкой streaming-ответов и постепенного обновления сообщения в чате.​ История диалога и профиль пользователя сохраняются в SQLite через SQLAlchemy, контекст ограничивается MAX_HISTORY для контроля длины промпта и стоимости | Python, aiogram 3, DeepSeek Chat API (streaming), aiohttp, SQLite, SQLAlchemy 2 |
 
 <hr/>
 
